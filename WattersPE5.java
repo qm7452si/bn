@@ -22,6 +22,6 @@ public class WattersPE5
 				total++;
 		}
 		System.out.println("There are " + total + " " + letter + "'s in your sentence.");
-		//rururururru
+		//rururururrurururururuurururuururururu
 	}
 }
